@@ -1,0 +1,39 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+
+
+public class Main {
+	
+public static void main(String[] args) throws IOException {
+
+	
+	BufferedReader sc = new BufferedReader(new InputStreamReader(System.in));
+BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+int x = 33;//Integer.parseInt(sc.readLine());
+
+int count = 0;
+
+int w = 0;
+w+=x;
+
+while(true) {
+w = (w%10)*10 + (w%10 + w/10)%10;
+count++;
+if(w==x) {
+	break;
+}else if(w<10) {
+	w+=w+10;
+}
+
+
+}
+String.valueOf(count);
+
+System.out.println(count);
+bw.flush();
+bw.close();
+}}

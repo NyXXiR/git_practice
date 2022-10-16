@@ -1,0 +1,19 @@
+
+public class AuthApp {
+
+	public static void main(String[] args) {
+
+		String id = "lgh0334";
+		String inputID  = args[0];
+		
+		System.out.println("Hi.");
+		
+		if(inputID == id) {
+			System.out.println("Welcome.");
+		
+		}else  {
+			System.out.println("Who are you?");
+		}
+	}
+
+}

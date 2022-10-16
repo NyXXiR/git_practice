@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args)  {
+
+Scanner sc = new Scanner(System.in);
+
+int x = 40;
+int ten = x/10;
+int one = x%10;
+int count = 0;
+
+int w = 0;
+w+=x;
+
+while(true) {
+w = (w%10)*10 + w%10 + w/10;
+count++;
+if(w==x) {
+	System.out.println(count);
+	break;
+}else if(w<10) {
+	w+=w+10;
+}
+
+
+}
+}}

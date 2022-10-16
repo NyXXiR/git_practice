@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+public class Main {
+	
+public static void main(String[] args) {
+	
+	Scanner sc = new Scanner(System.in);
+StringBuilder sb = new StringBuilder();
+
+	int N = 5;
+
+	for(int i=1;  i<=N; i++)	{
+		if(N-i>0) {
+			sb.append(" ");
+		}else {
+			sb.append("*");
+
+	}
+	
+}
+	System.out.println(sb);	
+}}
+	
+
+
+
+
+//0000000001
+//0000000011
+//0000000111 .... 
+//이런식으로 출력해야함. 행 갯수는 N까지, n-i까지 0을 출력하고 n-i+1부터는 1을 출력, n=i가 되면 종료
+//
+//i는 1부터, 10이면 9까지 0, 10부터 1
+//2 대입, 8까지 0, 9~10 1
+//
+//n=i대입, 1부터 111111...
+
+
+
+
+
+
+
