@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/IntelliJ_temporary.iml" filepath="$PROJECT_DIR$/.idea/IntelliJ_temporary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BakJoon/BakJoon.iml" filepath="$PROJECT_DIR$/BakJoon/BakJoon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntelliJ_temporary.iml" filepath="$PROJECT_DIR$/IntelliJ_temporary.iml" />
     </modules>
   </component>
 </project>
