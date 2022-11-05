@@ -27,6 +27,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\Workspace\git_practice\Eclipse\hello-spring"/>
 			<item value="C:\Users\Paul\Dropbox (개인용)\eclipse-workspace"/>
 		</list>
 	</section>
