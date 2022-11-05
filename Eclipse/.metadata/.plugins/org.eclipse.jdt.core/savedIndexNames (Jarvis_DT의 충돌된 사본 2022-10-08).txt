@@ -1,7 +1,0 @@
-INDEX VERSION 1.131+C:\Users\Paul\Dropbox (°³ÀÎ¿ë)\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
-1714997344.index
-1865797976.index
-2912292938.index
-1574264532.index
-1289103741.index
-2965863031.index

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Programming/OkJavaGoInHome2.java&apos; to &apos;OkJavaGoInHomeInput.java&apos;" description="Rename resource &apos;OkJavaGoInHome2.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="OkJavaGoInHome2.java" name="OkJavaGoInHomeInput.java" stamp="1662811262578" updateReferences="true"/>
-</session>

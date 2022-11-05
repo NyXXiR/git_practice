@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Extract method &apos;public static void printA()&apos; from &apos;MyOOP.main(...)&apos; to &apos;MyOOP&apos;&#x0A;- Original project: &apos;ProjectOOP&apos;&#x0A;- Method name: &apos;printA&apos;&#x0A;- Destination type: &apos;MyOOP&apos;&#x0A;- Declared visibility: &apos;public&apos;&#x0A;- Replace occurrences of statements with method" comments="false" description="Extract method &apos;printA&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{MyOOP.java" name="printA" replace="true" selection="104 81" stamp="1664929799570" version="1.0" visibility="1"/>
-</session>
