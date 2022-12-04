@@ -1,2 +1,3 @@
-    puts(true)
-puts(false)
+if true
+  puts("code1")
+end
